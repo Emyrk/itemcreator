@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="turtle_db_utils" ng-controller="MainCtrl">
+<head>
+    <title>Turtle WoW Database Utils</title>
+    <meta charset="utf-8">
+    <script>var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
+    <script src="https://wow.zamimg.com/widgets/power.js"></script>
+    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <link rel="stylesheet" href="css/dbutils.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="col-lg-12" style="cursor: pointer;" ng-click="nav('home')">
+            <img src="https://forum.turtle-wow.org/styles/pbwow3/theme/images/theme/logo.png" alt="Turtle WoW" class="center-block">
+        </div>
+    </div>
+    <div ui-view="main"></div>
+    <div class="text-center footer">
+        <a href="http://www.turtle-wow.org/" target="_blank">Created by ER / Xerron of Turtle WoW</a>
+    </div>
+    
+    <!-- Angular and dependencies loaded from original domain -->
+    <script type="text/javascript" src="https://dev.turtlecraft.gg/node_modules/angular/angular.min.js"></script>
+    <script type="text/javascript" src="https://dev.turtlecraft.gg/node_modules/angular-ui-router/release/angular-ui-router.min.js"></script>
+    <script type="text/javascript" src="https://dev.turtlecraft.gg/node_modules/ngstorage/ngStorage.min.js"></script>
+    <script type="text/javascript" src="https://dev.turtlecraft.gg/node_modules/jquery/dist/jquery.min.js"></script>
+    
+    <!-- Local JS files -->
+    <script type="text/javascript" src="js/all.min.js"></script>
+    <script type="text/javascript" src="js/templates.js"></script>
+</body>
+</html>
