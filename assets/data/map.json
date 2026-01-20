@@ -1,0 +1,186 @@
+[
+  {
+    "id": 0,
+    "text": "Azeroth"
+  },
+  {
+    "id": 1,
+    "text": "Kalimdor"
+  },
+  {
+    "id": 13,
+    "text": "test"
+  },
+  {
+    "id": 25,
+    "text": "ScottTest"
+  },
+  {
+    "id": 29,
+    "text": "Test"
+  },
+  {
+    "id": 30,
+    "text": "PVPZone01"
+  },
+  {
+    "id": 33,
+    "text": "Shadowfang"
+  },
+  {
+    "id": 34,
+    "text": "StormwindJail"
+  },
+  {
+    "id": 35,
+    "text": "StormwindPrison"
+  },
+  {
+    "id": 36,
+    "text": "DeadminesInstance"
+  },
+  {
+    "id": 37,
+    "text": "PVPZone02"
+  },
+  {
+    "id": 42,
+    "text": "Collin"
+  },
+  {
+    "id": 43,
+    "text": "WailingCaverns"
+  },
+  {
+    "id": 44,
+    "text": "Monastery"
+  },
+  {
+    "id": 47,
+    "text": "RazorfenKraulInstance"
+  },
+  {
+    "id": 48,
+    "text": "Blackfathom"
+  },
+  {
+    "id": 70,
+    "text": "Uldaman"
+  },
+  {
+    "id": 90,
+    "text": "GnomeragonInstance"
+  },
+  {
+    "id": 109,
+    "text": "SunkenTemple"
+  },
+  {
+    "id": 129,
+    "text": "RazorfenDowns"
+  },
+  {
+    "id": 150,
+    "text": "Outland"
+  },
+  {
+    "id": 169,
+    "text": "EmeraldDream"
+  },
+  {
+    "id": 189,
+    "text": "MonasteryInstances"
+  },
+  {
+    "id": 209,
+    "text": "TanarisInstance"
+  },
+  {
+    "id": 229,
+    "text": "BlackRockSpire"
+  },
+  {
+    "id": 230,
+    "text": "BlackrockDepths"
+  },
+  {
+    "id": 249,
+    "text": "OnyxiaLairInstance"
+  },
+  {
+    "id": 269,
+    "text": "CavernsOfTime"
+  },
+  {
+    "id": 289,
+    "text": "SchoolofNecromancy"
+  },
+  {
+    "id": 309,
+    "text": "Zul'gurub"
+  },
+  {
+    "id": 329,
+    "text": "Stratholme"
+  },
+  {
+    "id": 349,
+    "text": "Mauradon"
+  },
+  {
+    "id": 369,
+    "text": "DeeprunTram"
+  },
+  {
+    "id": 389,
+    "text": "OrgrimmarInstance"
+  },
+  {
+    "id": 409,
+    "text": "MoltenCore"
+  },
+  {
+    "id": 429,
+    "text": "DireMaul"
+  },
+  {
+    "id": 449,
+    "text": "AlliancePVPBarracks"
+  },
+  {
+    "id": 450,
+    "text": "HordePVPBarracks"
+  },
+  {
+    "id": 451,
+    "text": "development"
+  },
+  {
+    "id": 469,
+    "text": "BlackwingLair"
+  },
+  {
+    "id": 489,
+    "text": "PVPZone03"
+  },
+  {
+    "id": 509,
+    "text": "AhnQiraj"
+  },
+  {
+    "id": 529,
+    "text": "PVPZone04"
+  },
+  {
+    "id": 531,
+    "text": "AhnQirajTemple"
+  },
+  {
+    "id": 532,
+    "text": "Karazahn"
+  },
+  {
+    "id": 533,
+    "text": "Stratholme Raid"
+  }
+]
